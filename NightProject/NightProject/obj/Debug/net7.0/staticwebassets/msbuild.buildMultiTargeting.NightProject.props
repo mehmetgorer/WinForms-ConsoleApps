@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NightProject.props" />
+</Project>

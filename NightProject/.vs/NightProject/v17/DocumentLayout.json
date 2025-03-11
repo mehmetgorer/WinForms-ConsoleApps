@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\nightproject\\nightproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA473E9A-096D-4A91-AD4F-2D503C64E126}|NightProject\\NightProject.csproj|solutionrelative:nightproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 433,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "NightProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T19:23:03.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NightProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:21:31.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NightProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:21:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "NightProject\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Entities\\User.cs",
+              "RelativeToolTip": "NightProject\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-29T22:55:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NightProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-10T00:29:29.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "NightProject\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-10T00:28:57.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NightProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NightProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-10T00:26:50.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "NightProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-10T00:27:58.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Program.cs",
+              "RelativeDocumentMoniker": "NightProject\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Program.cs",
+              "RelativeToolTip": "NightProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-10T00:24:44.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "NightProject\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "NightProject\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-13T08:33:35.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "NightProject\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "NightProject\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-27T05:10:37.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NightProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NightProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-29T20:59:02.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\libman.json",
+              "RelativeDocumentMoniker": "NightProject\\libman.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\libman.json",
+              "RelativeToolTip": "NightProject\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T23:20:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\appsettings.json",
+              "RelativeDocumentMoniker": "NightProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\appsettings.json",
+              "RelativeToolTip": "NightProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T23:20:26.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "NightProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "NightProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-10T00:28:43.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NightProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\NightProject\\NightProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NightProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:19:15.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

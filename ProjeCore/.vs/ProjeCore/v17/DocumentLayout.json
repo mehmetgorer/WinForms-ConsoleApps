@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\projecore\\projecore\\views\\login\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|solutionrelative:projecore\\views\\login\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\projecore\\projecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|solutionrelative:projecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\projecore\\projecore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|solutionrelative:projecore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\projecore\\projecore\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|solutionrelative:projecore\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|c:\\users\\mehme\\desktop\\github\u0027a gider\\myprojects\\kopya tekrar kategor\u0130ze ed\u0130lecek\\projecore\\projecore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435C3E00-EA2F-47B2-B9B1-88A5CDFA092B}|ProjeCore\\ProjeCore.csproj|solutionrelative:projecore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjeCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\appsettings.json",
+              "RelativeToolTip": "ProjeCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T04:37:57.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Program.cs",
+              "RelativeDocumentMoniker": "ProjeCore\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Program.cs",
+              "RelativeToolTip": "ProjeCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:36:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "ProjeCore\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Models\\Context.cs",
+              "RelativeToolTip": "ProjeCore\\Models\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T07:42:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProjeCore\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProjeCore\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:38:06.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GirisYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Views\\Login\\GirisYap.cshtml",
+              "RelativeDocumentMoniker": "ProjeCore\\Views\\Login\\GirisYap.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\GitHub\u0027a Gider\\MyProjects\\KOPYA TEKRAR KATEGOR\u0130ZE ED\u0130LECEK\\ProjeCore\\ProjeCore\\Views\\Login\\GirisYap.cshtml",
+              "RelativeToolTip": "ProjeCore\\Views\\Login\\GirisYap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T19:19:43.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

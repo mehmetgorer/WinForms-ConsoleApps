@@ -1,0 +1,51 @@
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.exe
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.deps.json
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.runtimeconfig.json
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.dll
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.pdb
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.Form1.resources
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.Form2.resources
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.csproj.GenerateResource.cache
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.AssemblyInfoInputs.cache
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.AssemblyInfo.cs
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.csproj.CoreCompileInputs.cache
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.dll
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\refint\WinFormsApp.ConstructorOrnek.dll
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.pdb
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.genruntimeconfig.cache
+C:\Odev\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\ref\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.exe
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.deps.json
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.runtimeconfig.json
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.pdb
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.Form1.resources
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.Form2.resources
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.AssemblyInfo.cs
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\refint\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.pdb
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.genruntimeconfig.cache
+C:\Users\mehme\Desktop\MyProjects\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\ref\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.exe
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.deps.json
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.runtimeconfig.json
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\bin\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.pdb
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.Form1.resources
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.Form2.resources
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.AssemblyInfo.cs
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\refint\WinFormsApp.ConstructorOrnek.dll
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.pdb
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\WinFormsApp.ConstructorOrnek.genruntimeconfig.cache
+C:\Users\mehme\Desktop\GitHub'a Gider\MyProjects\WinForms&ConsoleApps\WinFormsApp.ConstructorOrnek\WinFormsApp.ConstructorOrnek\obj\Debug\net7.0-windows\ref\WinFormsApp.ConstructorOrnek.dll
